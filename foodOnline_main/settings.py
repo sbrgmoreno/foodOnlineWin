@@ -157,7 +157,7 @@ SENDGRID_API_KEY = os.getenv('SENDGRID_API_KEY')
 
 EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_HOST_USER = 'store.online.ecuador@gmail.com'
-EMAIL_HOST_PASSWORD = 'pdft yxux snuc dtuv'
+EMAIL_HOST_PASSWORD = 'pdftyxuxsnucdtuv'
 EMAIL_PORT = 587
 EMAIL_USE_TLS = True
 DEFAULT_FROM_EMAIL = 'foodOnline Marketplace <store.online.ecuador@gmail.com>'
